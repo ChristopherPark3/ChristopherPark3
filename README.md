@@ -11,6 +11,7 @@ My name is Chris Park and I am a full stack engineer. I enjoy creating products 
           - Firebase
           - Zustand
           - React Query
+        <br />
   - Creator Cards:
       - A project allowing for creators to display their social media links with style as well as measure their analytics.
       - I was lucky enough to have the opportunity to work on this cool project with @slip4k and we are looking to deploy soon!
@@ -19,6 +20,7 @@ My name is Chris Park and I am a full stack engineer. I enjoy creating products 
           - React Query
           - Supabase
           - shadcn
+            <br />
 ❤️‍🔥 My passions:
   - I am very big on fitness and weight lifting, specifically. I really enjoy the process of putting in hard work, and eventually seeing results! I also really enjoy meeting new people that come from different backgrounds and offer different perspectives.
   - I enjoy cutting hair and making others (as well as myself) look their best! It was something that I picked up after a bad experience at a salon, but it turned into a passion of mine that I used as a side hustle for myself in college!
