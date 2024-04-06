@@ -13,7 +13,7 @@ My name is Chris Park and I am a full stack engineer. I enjoy creating products 
           - React Query
 <br />
 
-  - <a href="creatorcards.us">Creator Cards<a>
+  - <a href="https://www.creatorcards.us">Creator Cards<a>
       - A project allowing for creators to display their social media links with style as well as measure their analytics.
       - I was lucky enough to have the opportunity to work on this cool project with @slip4k and we are looking to deploy soon!
       - Techstack:
