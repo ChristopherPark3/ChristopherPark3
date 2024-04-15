@@ -30,7 +30,7 @@ My name is Chris Park and I am a full stack engineer. I enjoy creating products 
 <br />
 
 📩 How to reach me:
-  - You can either message me on <a href="https://www.linkedin.com/in/christopherjcpark">LinkedIn</a> or feel free to email me at christopherjcpark00@gmail.com.
+  - You can either message me on <a href="https://www.linkedin.com/in/christopherjcpark" target="_blank">LinkedIn</a> or feel free to email me at christopherjcpark00@gmail.com.
   - Happy to chat about anything!
 
 <!--
