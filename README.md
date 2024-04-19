@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Chris Park and I am a full stack engineer. I enjoy creating products from 0 to 1 and down the line, I would want to work in the health tech sector and ultimately allow doctors, practitioners, etc to allocate more time to patient care! 
+My name is Chris Park and I am a full stack engineer. I enjoy creating products from 0 to 1 and down the line, I would want to work in the health tech sector and ultimately allow doctors, practitioners, etc to allocate more time to patient care! Checkout my website <a href='https://www.christopherjcpark.com' target="_blank">here</a>!
 
 🚧 Two projects that I am currently working on:
   - Soundlens:
